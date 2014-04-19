@@ -1,0 +1,10 @@
+{
+  "name": "EveRP",
+  "version": "0.0.0",
+  "description": "EveRP",
+  "main": "server.js",
+  "author": {
+    "name": "Brad",
+    "email": ""
+  }
+}
